@@ -1,8 +1,9 @@
 # ArrayAssignments
 
-this is a Orbit(GeoDash) inspired Rock, Paper, Scissors game i made for computer science project
+This is a assignment about array's I had to do in class
 
 ## Getting Started
+
 ### Prerequisites
 1.  **Visula Studio 2022** (or 2026)
 2.  **.NET Desktop Development**
@@ -14,13 +15,13 @@ this is a Orbit(GeoDash) inspired Rock, Paper, Scissors game i made for computer
 4. Run the project: Press Ctrl + F5 or press the Start Button (the green play button)
 
 ## Usage
-[black]
+This could be used for fun or to show students how array's work
 
 ## Contributing
 Edits & improvements are welcome, just fork & submit a pull request with all your changes.
 
 ## License
-this is licensed under the **Polyform Noncommercial License 1.0.0**
+this is licensed under the **Creative Commons Non-Commercial 4.0 International**
 
 **what you CAN do**
 - View, download, and run the code
