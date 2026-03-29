@@ -26,6 +26,7 @@ this is licensed under the **Creative Commons Non-Commercial 4.0 International**
 **what you CAN do**
 - View, download, and run the code
 - modify the code for personal use
+- use this code for educational purposes
 
 **what you CANT do**
 - sell the software or derivative works.
