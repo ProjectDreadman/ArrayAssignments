@@ -12,7 +12,7 @@ This is a assignment about array's I had to do in class
 1. Clone the repo: `git clone https://github.com/ProjectDreadman/ArrayAssignments.git`
 2. Install dependencies: there are not as of right now
 3. Open the project: Navigate to the folder ans double-click the .sln (Solution) file to open it in visual studio
-4. Run the project: Press Ctrl + F5 or press the Start Button (the green play button)
+4. Run the project: Press Ctrl + F5 to run the program
 
 ## Usage
 This could be used for fun or to show students how array's work
